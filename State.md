@@ -21,7 +21,7 @@
 | Is-Use | whether defensive bonus has been used |	
 
 
-## State parameter of the robot:
+## input of network:
 #### Self state parameter:
 | parameter name | parameter mean | 
 | ------ | ------ |
