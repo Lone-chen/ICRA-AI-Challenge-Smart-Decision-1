@@ -21,7 +21,7 @@
 | Is-Use | whether defensive bonus has been used |	
 
 
-## input of network:
+## Input of Network:
 #### Self state parameter:
 | parameter name | parameter mean | 
 | ------ | ------ |
